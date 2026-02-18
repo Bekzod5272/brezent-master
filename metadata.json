@@ -1,0 +1,7 @@
+{
+  "name": "Brezent Master",
+  "description": "Premium tarpaulin and canvas materials showcase with interactive pricing and AI-powered material selection advisor.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
